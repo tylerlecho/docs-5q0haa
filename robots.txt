@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0zm7x5.pagosacreditoicetex.top/sitemap.xml
